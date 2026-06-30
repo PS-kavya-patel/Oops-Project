@@ -1,0 +1,19 @@
+# Compiled class files
+/out/
+*.class
+
+# Embedded JDK and zip file
+/jdk21/
+/jdk21.zip
+
+# IDE specific files
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+.vscode/
+bin/
+
+# Log files
+*.log
