@@ -49,5 +49,4 @@ A complete debugging report is available in:
 
 If Java is not installed, install JDK 21 or later first.
 
-## GitHub Submission Note
-Upload this project to GitHub and share the repository link for review.
+
